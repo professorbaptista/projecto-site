@@ -19,11 +19,13 @@ main{
 
 h1{
     color: blue;
-    font-size: 2em;
     text-align: center;
+    font-size: 2em;
 }
 
 p{
     text-align: justify;
     text-indent: 50px;
+    padding: 16px;
+
 }

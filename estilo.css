@@ -29,3 +29,9 @@ p{
     padding: 16px;
 
 }
+
+aside{
+    border: 2p solid black;
+    float: left;
+    
+}
